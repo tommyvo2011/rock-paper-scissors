@@ -1,0 +1,1 @@
+This is my first project creating a rock, paper, and scissors game involving HTML, CSS, and Javascript.
